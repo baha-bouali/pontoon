@@ -172,7 +172,7 @@
 }
 
 #copy-locale-form .locale-menu button.is-open {
-  border-radius: 3px 3px 0 0;
+  border-radius: 0 0 3px 3px;
 }
 
 .batch-actions .actions-panel .locale-menu-search input {
